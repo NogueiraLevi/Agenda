@@ -1,7 +1,10 @@
 # 📆 Agenda de Contatos
 
-Um projeto web simples de agenda de contatos feito com **Django**, com funcionalidades para **cadastrar**, **editar**, **visualizar** e **excluir** contatos. Ideal para quem está começando no desenvolvimento web com Python e quer entender na prática como funciona um CRUD com Django.
+Este é um sistema web de **agenda de contatos** desenvolvido com o framework **Django**. A aplicação permite que usuários realizem operações completas de cadastro, edição, visualização e exclusão de contatos.
 
+O projeto foi criado com foco em praticar e aplicar os conceitos fundamentais de um CRUD (Create, Read, Update, Delete) utilizando a estrutura robusta do Django, além de organizar os dados em um banco relacional com SQLite.
+
+O sistema está finalizado e pronto para uso local, sendo uma base sólida para projetos futuros ou como referência para quem deseja entender como estruturar uma aplicação web com Django.
 ---
 
 ## 🚀 Funcionalidades
